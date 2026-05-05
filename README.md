@@ -5,8 +5,6 @@
 ## Project Overview
 This project simulates an enterprise IT service desk environment. It demonstrates how support tickets are received, categorized, prioritized, assigned, resolved, documented, escalated, and closed using IT helpdesk best practices.
 
-The project is designed for entry-level IT Support Technician, Help Desk Analyst, Desktop Support, and Service Desk roles.
-
 ## Project Goals
 - Simulate real-world IT service desk operations
 - Manage the full incident lifecycle from intake to closure
